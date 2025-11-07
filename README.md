@@ -24,7 +24,7 @@ Table of Contents
   - [Acknowledgement](#acknowledgement)
 
 ## Overview
-- This is the PyTorch implementation for NeurIPS 2025 Workshop (*the 1st GenProCC*) paper "[SHIELD: A Benchmark Study on Zero-Shot Detection of AI-Edited Images with Vision Language Models]([assets/camera_ready.pdf](https://openreview.net/forum?id=hEZPVTDXCy))".
+- This is the PyTorch implementation for NeurIPS 2025 Workshop (*the 1st GenProCC*) paper "[SHIELD: A Benchmark Study on Zero-Shot Detection of AI-Edited Images with Vision Language Models](https://openreview.net/forum?id=hEZPVTDXCy)".
 <!-- - [[arXiv](https://arxiv.org/abs/2403.17188)\] | \[[video](https://www.youtube.com/watch?v=AoP6tlFmSqQ&t=12s)\] | \[[slides](https://www.cs.purdue.edu/homes/cheng535/static/slides/LOTUS_slides.pdf)\] | \[[poster](https://www.cs.purdue.edu/homes/cheng535/static/slides/LOTUS_poster.pdf)\] -->
 
 <img src="assets/overview.png" width="900px"/>
